@@ -51,7 +51,7 @@ This package comes with an installer that makes things extremely easy:
 ./installer.sh
 ```
 ```
-sudo anonsurf stop
+sudo anonsurf start
 ```
 
 ## Note
@@ -65,7 +65,7 @@ nano /etc/resolv.conf
 And change nameserver to 1.1.1.1
 ```
 ```
-sudo anonsurf stop
+sudo anonsurf start
 ```
 
 Once the installer is complete, you will be able to use both the anonsurf and pandora modules.
